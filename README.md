@@ -1,10 +1,10 @@
-# Metro App: Finding Routes over a Given Map using Dijkstra's Algorithm
+# Metro Routes App: Finding Routes using Dijkstra's Algorithm
 ============================================================
 
 ## Overview
 -----------
 
-This is a simple C++ program that helps commuters navigate the Delhi Metro network. It takes the source station and destination station as input from the user and displays the shortest metro route, fare, and distance to reach the destination.
+This is a simple C++ Project that helps commuters navigate the DMRC network. It takes the source station and destination station as input from the user and displays the shortest metro route, fare, and distance to reach the destination.
 
 ## Implementation
 -----------------
@@ -50,10 +50,3 @@ The program displays the following information to the user:
 * **Uses Dijkstra's algorithm to find the optimal route**
 * **Can be easily extended to include more metro stations and lines**
 
-## Future Enhancements
-----------------------
-
-* **Integrate with a database to store and update metro station information**
-* **Add more algorithms to find the shortest path (e.g., breadth-first search, depth-first search)**
-* **Implement a more advanced user interface (e.g., GUI) for better user experience**
-* **Add the feature where if a station's activity is disrupted it can give a new path**
